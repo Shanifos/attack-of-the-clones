@@ -9,3 +9,12 @@
 **Call Sign:** JC
 
 ----
+# Clone Army
+
+## Shani Foshee
+
+**Rank:** Cadet
+
+**Designation:** Cadet-6703
+
+**Call Sign:** Shai
